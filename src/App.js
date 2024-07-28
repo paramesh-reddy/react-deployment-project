@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
     <div>
-      <h3>paramesh</h3>
+      <h3>queeen</h3>
     </div>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
